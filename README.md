@@ -1,2 +1,2 @@
-# -ubuntu-server-administration
+# ubuntu-server-administration
  Ubuntu Server Administration
